@@ -1,0 +1,8 @@
+
+
+Verilen etiket ve DoesAbilitySatisfyTagRequirements() ile eşleşen her oyun yeteneğini etkinleştirmeye çalışır.
+Herhangi bir şey etkinleştirmeye çalışırsa true değerini döndürür.
+Birden fazla yeteneği etkinleştirebilir ve yetenek daha sonra başarısız olabilir.
+bAllowRemoteActivation doğruysa, yerel/sunucu yeteneklerini uzaktan etkinleştirir, yanlışsa yalnızca yerel olarak etkinleştirmeyi dener.
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Abilities/TryActivateAbilitiesbyTag/
