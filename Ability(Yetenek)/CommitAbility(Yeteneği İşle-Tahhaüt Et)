@@ -1,0 +1,7 @@
+
+
+Yeteneği taahhüt etmeye çalışır (kaynakları harcamak, vb.). 
+Bu başarısız olmak için son şansımızdır. 
+Etkinleştirme Yeteneği(ActivateAbility)'ni geçersiz kılan alt sınıflar(chields) bunu kendileri çağırmalıdır!
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Ability/CommitAbility/
