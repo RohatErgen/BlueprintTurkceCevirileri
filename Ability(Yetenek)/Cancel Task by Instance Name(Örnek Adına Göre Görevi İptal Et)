@@ -1,0 +1,6 @@
+
+
+Bu örnek adına sahip herhangi bir görevi, bir sonraki karede iptal edilecek (sonlandırılmayacak) bir listeye ekleyin. 
+Ayrıca bkz. EndTaskByInstanceName.
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Ability/CancelTaskbyInstanceName/
