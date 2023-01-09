@@ -1,0 +1,7 @@
+
+
+Yerel bir kullanıcının yetenekleri etkinleştirebilmesini Devre Dışı Bırakın veya Etkinleştirin. 
+Bu sadece giriş/UI vb. ile ilgili engelleme için kullanılmalıdır. 
+Oyun mekaniği için kullanmayın.
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Abilities/SetUserAbilityActivationInhibite-/
