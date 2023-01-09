@@ -1,0 +1,7 @@
+
+
+ÖrnekAdı adlı(InstanceName) şu anda etkin olan tüm görevleri bulur ve onaylar. 
+Bunun ne anlama geldiği bireysel göreve bağlıdır. 
+Varsayılan olarak bu, bEndTask doğruysa bitirmekten başka bir şey yapmaz.
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Ability/ConfirmTaskbyInstanceName/
