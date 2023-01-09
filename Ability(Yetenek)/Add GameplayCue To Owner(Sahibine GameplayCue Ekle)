@@ -1,0 +1,5 @@
+
+Yetenek sahibine kalıcı bir oynanış ipucu ekler. 
+İsteğe bağlı olarak, yetenek sona ererse kaldırılacak
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Ability/AddGameplayCueToOwner/
