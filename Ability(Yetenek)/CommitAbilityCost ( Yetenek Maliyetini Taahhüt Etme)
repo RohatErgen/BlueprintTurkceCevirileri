@@ -1,0 +1,6 @@
+
+
+Yalnızca yeteneğin maliyetini taahhüt etmeye çalışır. 
+BroadcastCommitEvent true ise, WaitAbilityCommit gibi görevlerin dinlediği commit olayını yayınlayacaktır.
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Ability/CommitAbilityCost/
