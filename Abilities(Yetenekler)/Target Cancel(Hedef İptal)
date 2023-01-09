@@ -1,0 +1,5 @@
+
+
+Herhangi bir aktif hedefleme aktörü durdurulacak ve iptal edilecek, herhangi bir hedefleme verisi döndürülmeyecektir.
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Abilities/TargetCancel/
