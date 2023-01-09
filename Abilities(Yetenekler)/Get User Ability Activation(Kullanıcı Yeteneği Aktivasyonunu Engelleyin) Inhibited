@@ -1,9 +1,7 @@
+
+
 Bir girdi perspektifinden bir yeteneğin etkinleştirilmesini engellemek için kullanılması amaçlanmıştır.
 Bu sadece yerel olarak sahip olunan oyunculara çağrılmalıdır. 
 Bu, sessizlikler(SLİENCE MEKANİĞİ) veya devre dışı bırakmalar(BREAK) gibi oyun mekaniği için kullanılmamalıdır. Bunlar oyun efektleri aracılığıyla yapılmalıdır.
 
-Target
-Ability System Component Object Reference
-
-Return Value
-Boolean
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Abilities/GetUserAbilityActivationInhibite-/
