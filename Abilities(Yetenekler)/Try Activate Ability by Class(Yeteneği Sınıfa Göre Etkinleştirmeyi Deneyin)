@@ -1,0 +1,6 @@
+Aktarılan yeteneği etkinleştirmeye çalışır.
+Bu node, bunu yapmadan önce(işlevini yerine getirmeden önce) maliyetleri ve gereksinimleri kontrol edecektir.
+Etkinleştirildiğini düşünürse true döndürür, ancak daha sonra etkinleştirmede başarısız olması nedeniyle yanlış pozitifler(false positives)(anlamını bilmiyorum.) döndürebilir.
+bAllowRemoteActivation doğruysa, yerel/sunucu yeteneklerini uzaktan etkinleştirir, yanlışsa yalnızca yeteneği yerel olarak etkinleştirmeye çalışır.
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Abilities/TryActivateAbilitybyClass/
