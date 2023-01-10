@@ -1,0 +1,6 @@
+
+
+Verilen ada sahip herhangi bir aktif yetenek durumu görevini sonlandırır. 
+Ad 'Yok' ise, tüm etkin durumlar sonlandırılacaktır (isteğe bağlı bir sırada).
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Ability/EndAbilityState/
