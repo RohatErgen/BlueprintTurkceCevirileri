@@ -1,0 +1,5 @@
+
+
+Owner'dan bir GameplayEffectContextHandle ve isteğe bağlı bir TargetData oluşturur.
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Ability/GetContextfromOwner/
