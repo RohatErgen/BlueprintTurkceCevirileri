@@ -1,0 +1,6 @@
+
+
+Bu yeteneği yürüten fiziksel aktörü döndürür. 
+null(boş) olabilir
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Ability/GetAvatarActorfromActorInfo/
