@@ -1,0 +1,5 @@
+
+
+Şu anda etkin bekleme süresinde kalan süreyi saniye cinsinden döndürür.
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Ability/GetCooldownTimeRemaining/
