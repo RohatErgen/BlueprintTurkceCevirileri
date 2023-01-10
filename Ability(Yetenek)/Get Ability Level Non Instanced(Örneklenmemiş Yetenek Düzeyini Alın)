@@ -1,0 +1,6 @@
+
+
+Instance olmayan yetenekler için geçerli yetenek seviyesini döndürür. 
+Bu versiyonu bu bağlamlarda aramalısınız!
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Ability/GetAbilityLevelNonInstanced/
