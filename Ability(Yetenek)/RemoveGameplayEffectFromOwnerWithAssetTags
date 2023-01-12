@@ -1,0 +1,5 @@
+
+
+Verilen varlık seviyesi etiketleriyle eşleşen GameplayEffects'i sahibinden kaldırır
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Ability/RemoveGameplayEffectFromOwnerWit-/
