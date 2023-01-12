@@ -1,0 +1,5 @@
+
+
+Verilen tutamaçla eşleşen sahibinden GameplayEffect'i kaldırır
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Ability/RemoveGameplayEffectFromOwnerWit-_2/
