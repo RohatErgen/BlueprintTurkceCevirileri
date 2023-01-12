@@ -1,0 +1,5 @@
+
+
+Verilen etiketleri veren sahibinden GameplayEffects'i kaldırır
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Ability/RemoveGameplayEffectFromOwnerWit-_1/
