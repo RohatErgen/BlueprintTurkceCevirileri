@@ -1,0 +1,8 @@
+
+
+Geçerli tahmin anahtarını geçersiz kılar.
+Bu, geçerli bir tahmin penceresinin olduğu, ancak sunucunun yalnızca kendisinin yapabileceği mantığı yaptığı ve ardından istemcinin tahmin edebileceği
+bir eylemi gerçekleştirdiği durumlarda kullanılmalıdır (istemci önceden yalnızca sunucu kodunu çalıştırabilseydi).
+Bu anında geri döner ve mevcut tahmin anahtarını temizlemekten başka yan etkisi yoktur.
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Ability/InvalidateClientPredictionKey/
