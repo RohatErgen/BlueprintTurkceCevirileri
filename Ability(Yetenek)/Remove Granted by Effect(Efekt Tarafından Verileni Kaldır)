@@ -1,0 +1,5 @@
+
+
+Bu yeteneği veren GameplayEffect'i kaldırır. Yalnızca eşgörünümlü(instanced) yeteneklerde çağrılabilir.
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Ability/RemoveGrantedbyEffect/
