@@ -1,0 +1,5 @@
+
+
+Yetenek bloğu bayraklarının etkinleştirilmesi veya devre dışı bırakılması yerine ayarlar. Yalnızca eşgörünümlü yeteneklerde geçerlidir
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Ability/SetShouldBlockOtherAbilities/
