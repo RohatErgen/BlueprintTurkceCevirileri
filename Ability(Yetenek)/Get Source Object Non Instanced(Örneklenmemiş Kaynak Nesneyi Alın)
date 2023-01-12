@@ -1,0 +1,6 @@
+
+
+Bu yetenekle ilişkili SourceObject öğesini alır. 
+Non instance üzerinde çağrılabilir
+
+https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Ability/GetSourceObjectNonInstanced/
